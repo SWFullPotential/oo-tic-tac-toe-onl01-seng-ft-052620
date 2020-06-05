@@ -124,7 +124,7 @@ class TicTacToe
   end
   
   def play 
-    unil over? == true
+    untilil over? == true
     turn 
   end
   
